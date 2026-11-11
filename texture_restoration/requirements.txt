@@ -1,0 +1,6 @@
+numpy
+Pillow
+plyfile
+torch
+torchvision
+gsplat
